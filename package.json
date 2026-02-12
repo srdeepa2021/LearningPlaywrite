@@ -1,0 +1,11 @@
+{
+  "name": "learning-playwrite",
+  "version": "0.1.0",
+  "description": "Minimal Playwright test project",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
